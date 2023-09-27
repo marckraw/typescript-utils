@@ -1,0 +1,8 @@
+{
+  "name": "typescript-utils",
+  "version": "0.0.1",
+  "main": "./index.d.ts",
+  "types": "./index.d.ts",
+  "author": "marckraw <marckraw@icloud.com>",
+  "license": "MIT"
+}
